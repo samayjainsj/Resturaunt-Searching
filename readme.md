@@ -1,4 +1,8 @@
 # A Website to find Resturaunt in India
+#### A responsive website where, we can search for restaurants in cities.
+#### A dropdown for selecting cities and a search input for searching the restaurants in the selected city.
+#### The resultant set of restaurants must be listed and on clicking on the restaurant name, it should take us to the restaurant page where, the details of the restaurant along with the feedback must be displayed.
+#### Anyone who has entered that restaurants page must be able to submit their own review (like the review text and ratings).
 #### Technology Used: Laravel 5.3, Bootstrap, AJAX
 ##### Follow these Commands
 ###### composer install
