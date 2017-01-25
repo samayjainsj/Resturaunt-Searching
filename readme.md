@@ -13,7 +13,6 @@
 5. Feedback System
 
 #### For Form Helper and HTMl Class https://laravelcollective.com/
-#### For WYSIWYG Editior https://www.tinymce.com/ 
 #### For Searching-Select https://select2.github.io/examples.html
 
 
