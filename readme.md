@@ -1,15 +1,20 @@
 # A Website to find Resturaunt in India
 #### Technology Used: Laravel 5.3, Bootstrap, AJAX
-###### First Create Database Called gobumpr then run this command "php artisan migrate"
+##### Follow these Commands
+###### composer install
+###### composer update
+###### First Create Database Called gobumpr 
+###### php artisan migrate
 #### Features
 1. Fully Authentication 
 2. Review system
 3. Share story about Resturaunt 
 4. Comments On Posts
 5. Feedback System
-    #### For Form Helper and HTMl Class https://laravelcollective.com/
-    #### For WYSIWYG Editior https://www.tinymce.com/ 
-    #### For Searching-Select https://select2.github.io/examples.html
+
+#### For Form Helper and HTMl Class https://laravelcollective.com/
+#### For WYSIWYG Editior https://www.tinymce.com/ 
+#### For Searching-Select https://select2.github.io/examples.html
 
 
 # Laravel PHP Framework
